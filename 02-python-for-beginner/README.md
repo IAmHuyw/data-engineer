@@ -1,0 +1,12 @@
+# Học phần 2: Python for Beginner (11 Bài)
+- [ ] Bài 1: Các khái niệm cơ bản trong lập trình Python
+- [ ] Bài 2: Biểu thức trong lập trình Python
+- [ ] Bài 3: Đối tượng String trong lập trình Python
+- [ ] Bài 4: Đối tượng List, Tuples, Sets và Dictionary
+- [ ] Bài 5: Thao tác với hàm tự định nghĩa trong lập trình Python
+- [ ] Bài 6: Hướng đối tượng (OOP) và thao tác với File
+- [ ] Bài 7: Module và quản lý lỗi (Exception)
+- [ ] Bài 8: Thao tác làm việc với Cơ sở dữ liệu
+- [ ] Bài 9: Làm việc với mảng qua thư viện NumPy
+- [ ] Bài 10: Quản lý và biến đổi dữ liệu với Pandas
+- [ ] Bài 11: Tổng kết & Mini-Project Python ETL
